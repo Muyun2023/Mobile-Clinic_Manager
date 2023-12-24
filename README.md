@@ -19,8 +19,8 @@ Created an app for a moving clinic that helps the homeless in different towns. I
 4. Include local services like mental health care to help sick patients better.
 ### Preview
 <div align="center">
-<img src="demo/Design.png" width="600">
-<img src="demo/MainPage.png" width="600">
+<img src="demo/Design.png" width="800">
+<img src="demo/MainPage.png" width="800">
 </div>
 
 # 💻 Environment
