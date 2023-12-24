@@ -19,12 +19,12 @@ Created an app for a moving clinic that helps the homeless in different towns. I
 4. Include local services like mental health care to help sick patients better.
 ### Preview
 <div align="center">
-<img src="demo/Design.png" width="500">
-<img src="demo/MainPage.png" width="500">
+<img src="demo/Design.png" width="600">
+<img src="demo/MainPage.png" width="600">
 </div>
 
 # 💻 Environment
-swing tutorial [Getting Started]([https://openjfx.io/openjfx-docs/](https://www.javatpoint.com/java-swing))
+Swing tutorial[Getting Started](https://www.javatpoint.com/java-swing)
 
 # 🛠 Installation
 Clone the repository into your local machine
