@@ -31,8 +31,8 @@ Clone the repository into your local machine
 
 # 🚀 Technologies
 This project was developed with the following technologies:
-- Java
 - Swing
+- MySQL
 - VScode
   
 OOD/OOP concepts used:
