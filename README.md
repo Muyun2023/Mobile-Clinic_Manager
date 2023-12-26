@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 - Swing
 - VScode
   
-OOP concepts used:
+OOD/OOP concepts used:
 - Classes and Objects/Overloading and Overriding
 - Encapsulation/Inheritance/Polymorphism
 - Abstraction/Interfaces
